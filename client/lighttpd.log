@@ -1,0 +1,11 @@
+2015-03-15 18:21:08: (log.c.166) server started 
+2015-03-15 18:21:17: (mod_fastcgi.c.2540) unexpected end-of-file (perhaps the fastcgi process died): pid: 0 socket: tcp:127.0.0.1:50007 
+2015-03-15 18:21:17: (mod_fastcgi.c.3326) response not received, request sent: 887 on socket: tcp:127.0.0.1:50007 for /srvmyapp?, closing connection 
+2015-03-15 18:21:17: (mod_fastcgi.c.2540) unexpected end-of-file (perhaps the fastcgi process died): pid: 0 socket: tcp:127.0.0.1:50007 
+2015-03-15 18:21:17: (mod_fastcgi.c.3326) response not received, request sent: 887 on socket: tcp:127.0.0.1:50007 for /srvmyapp?, closing connection 
+2015-03-15 18:21:17: (mod_fastcgi.c.2540) unexpected end-of-file (perhaps the fastcgi process died): pid: 0 socket: tcp:127.0.0.1:50007 
+2015-03-15 18:21:17: (mod_fastcgi.c.3326) response not received, request sent: 902 on socket: tcp:127.0.0.1:50007 for /srvmyapp?, closing connection 
+2015-03-15 18:21:17: (mod_fastcgi.c.2878) establishing connection failed: Connection refused socket: tcp:127.0.0.1:50007 
+2015-03-15 18:21:17: (mod_fastcgi.c.2884) backend is overloaded; we'll disable it for 1 seconds and send the request to another backend instead: reconnects: 0 load: 1 
+2015-03-15 18:21:17: (mod_fastcgi.c.3567) all handlers for /srvmyapp/ajax/calcpy/getNumber? on /srvmyapp are down. 
+2015-03-15 18:21:17: (server.c.1558) server stopped by UID = 1000 PID = 2615 
